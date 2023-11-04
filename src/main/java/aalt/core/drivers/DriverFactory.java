@@ -2,7 +2,7 @@ package aalt.core.drivers;
 
 import aalt.core.drivers.managers.ChromeManager;
 import aalt.core.drivers.managers.FirefoxManager;
-import aalt.core.enums.Browsers;
+import aalt.core.constants.Browsers;
 import org.openqa.selenium.WebDriver;
 
 import java.util.HashMap;

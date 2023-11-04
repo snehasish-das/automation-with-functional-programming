@@ -1,4 +1,4 @@
-package aalt.core.enums;
+package aalt.core.constants;
 
 public enum Browsers {
     CHROME,
